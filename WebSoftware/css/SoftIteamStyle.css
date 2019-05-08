@@ -1,0 +1,44 @@
+﻿
+
+    .Iteam
+    {
+        display:inline-block;
+        width:570px;
+        height:60px;
+        padding:10px;
+        border:1px;
+        color:#000000;
+        border-bottom: 1px solid #ccc;
+    }
+    .Image
+    {
+        width:20px;
+        height:20px;
+        border:1px;
+        color:#ff0000;
+    }
+    .PosTittle
+    {
+        position:relative;
+        top: -54px;
+        left: 70px;
+        width: 296px;
+        right: -70px;
+    }
+    .PosContent
+    {
+        position:relative;
+        top: -45px;
+        left: 69px;
+        width: 296px;
+        right: -69px;
+    }
+    .PosSize
+    {
+        position:relative;
+        top: -67px;
+        left: 470px;
+        width: 75px;
+        right: -470px;
+        text-align:center;
+    }
